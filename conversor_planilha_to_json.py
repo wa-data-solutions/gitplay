@@ -6,8 +6,8 @@ import os
 # CAMINHOS DOS ARQUIVOS
 # ==========================
 
-arquivo_excel = r"C:\Entrada\clientes_excel.xlsx"
-arquivo_json = r"C:\Saida\clientes_json.json"
+arquivo_excel = r"C:\Entrada\client.xlsx"
+arquivo_json = r"C:\Saida\client.json"
 
 # Cria a pasta de saída, caso não exista
 os.makedirs(os.path.dirname(arquivo_json), exist_ok=True)
