@@ -1,0 +1,6 @@
+*** EXECUTANDO ESTE PROJETO ***
+
+1 - No terminal, ative o ambiente .venv
+.\.venv\Scripts\Activate.ps1
+
+Tudo será executado usando o Python e as bibliotecas da .venv.
